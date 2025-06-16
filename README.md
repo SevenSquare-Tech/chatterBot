@@ -1,4 +1,4 @@
-A Complete guide to [Create Chatbot using ML Algorith and NLP Toolkit](https://www.sevensquaretech.com/build-chatbot-nlp-python-github-project/)
+A Complete guide to [Create Chatbot using ML Algorithm and NLP Toolkit](https://www.sevensquaretech.com/build-chatbot-nlp-python-github-project/)
 
 # Chatbot Using ML Algorithm and NLP Toolkit
 
