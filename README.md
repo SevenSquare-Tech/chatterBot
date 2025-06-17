@@ -1,5 +1,3 @@
-A Complete guide to [Create Chatbot using ML Algorithm and NLP Toolkit](https://www.sevensquaretech.com/build-chatbot-nlp-python-github-project/)
-
 # Chatbot Using ML Algorithm and NLP Toolkit
 
 The Chatbot is a Python-based chatbot that utilizes machine learning algorithms and natural language processing (NLP) techniques to provide automated assistance to users with college-related inquiries. The chatbot aims to improve the user experience by delivering quick and accurate responses to their questions.
@@ -16,13 +14,13 @@ The chatbot is developed using a combination of natural language processing tech
 
 The motivation behind this project was to create a simple chatbot using my newly acquired knowledge of Natural Language Processing (NLP) and Python programming. As one of my first projects in this field, I wanted to put my skills to the test and see what I could create.
 
-[I followed a guide referenced in the project](https://thecleverprogrammer.com/2023/03/27/end-to-end-chatbot-using-python/) to learn the steps involved in creating an end-to-end chatbot. This included collecting data, choosing programming languages and NLP tools, training the chatbot, and testing and refining it before making it available to users.
+I followed a guide referenced in the project to learn the steps involved in creating an end-to-end chatbot. This included collecting data, choosing programming languages and NLP tools, training the chatbot, and testing and refining it before making it available to users.
 
 Although this chatbot may not have exceptional cognitive skills or be state-of-the-art, it was a great way for me to apply my skills and learn more about NLP and chatbot development. I hope this project inspires others to try their hand at creating their own chatbot and further explore the world of NLP.
 
 ## How to Use the Chatbot
 
-You can run the [Chatbot.ipynb](./College-Chatbot.ipynb) which also includes step by step instructions in [Jupyter Notebook](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/).
+You can run the Chatbot.ipynb which also includes step by step instructions in Jupyter Notebook.
 
 ### Or
 
