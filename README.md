@@ -4,6 +4,8 @@ A Complete guide to [Create Chatbot using ML Algorithm and NLP Toolkit](https://
 
 The Chatbot is a Python-based chatbot that utilizes machine learning algorithms and natural language processing (NLP) techniques to provide automated assistance to users with college-related inquiries. The chatbot aims to improve the user experience by delivering quick and accurate responses to their questions.
 
+[A Guide to Build a Chatbot with NLP in Python.](https://www.sevensquaretech.com/build-chatbot-nlp-python-github-project/)
+
 ## Methodology
 
 The chatbot is developed using a combination of natural language processing techniques and machine learning algorithms. The methodology involves data preparation, model training, and chatbot response generation. The data is preprocessed to remove noise and increase training examples using synonym replacement. Multiple classification models are trained and evaluated to find the best-performing one. The trained model is then used to predict the intent of user input, and a random response is selected from the corresponding intent's responses. The chatbot is developed as a web application using Flask, allowing users to interact with it in real-time but yet to be deployed.
